@@ -284,7 +284,7 @@ Shows:
 
 
 ![ThingSpeak Channel](output/Energy_monitoring_system.png)
-```
+
 
 Shows:
 
@@ -292,13 +292,12 @@ Shows:
 * Widgets
 * API Integration
 
----
+
 
 ## 3. Project File Structure
 
-```markdown
 ![File Structure](output/File_Structure.png)
-```
+
 
 Shows complete PlatformIO project organization.
 
@@ -306,9 +305,9 @@ Shows complete PlatformIO project organization.
 
 ## 4. Indicators Dashboard
 
-```markdown
+
 ![Indicators](output/Indicators.png)
-```
+
 
 Shows:
 
@@ -320,9 +319,9 @@ Shows:
 
 ## 5. Load Condition
 
-```markdown
+
 ![Load Condition](output/Loadcondition.png)
-```
+
 
 Shows different simulated load conditions.
 
@@ -330,9 +329,9 @@ Shows different simulated load conditions.
 
 ## 6. Wokwi Simulation
 
-```markdown
+
 ![Simulation](output/Simulation2.png)
-```
+
 
 Shows complete virtual hardware implementation.
 
