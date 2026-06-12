@@ -282,7 +282,7 @@ Shows:
 
 ## 2. ThingSpeak Channel
 
-```markdown
+
 ![ThingSpeak Channel](output/Energy_monitoring_system.png)
 ```
 
