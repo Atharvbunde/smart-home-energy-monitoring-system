@@ -611,4 +611,7 @@ Suitable roles:
 
 **Atharv Bunde**
 
+Linkdin : https://www.linkedin.com/feed/update/urn:li:ugcPost:7471261987709255680/
+MIS Licence
+
 **IoT | ESP32 | Embedded Systems | Industry 4.0 | Cloud Dashboards**
