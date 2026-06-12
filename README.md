@@ -268,7 +268,7 @@ P2-Energy-Monitoring
 ## 1. ThingSpeak Dashboard
 
 ```markdown
-![Dashboard](output/1.Dashboard.png)
+![Dashboard](output/Dashboard.png)
 ```
 
 Shows:
@@ -283,7 +283,7 @@ Shows:
 ## 2. ThingSpeak Channel
 
 ```markdown
-![ThingSpeak Channel](output/2.Energy_monitoring_system.png)
+![ThingSpeak Channel](output/Energy_monitoring_system.png)
 ```
 
 Shows:
@@ -297,7 +297,7 @@ Shows:
 ## 3. Project File Structure
 
 ```markdown
-![File Structure](output/3.File_Structure.png)
+![File Structure](output/File_Structure.png)
 ```
 
 Shows complete PlatformIO project organization.
@@ -307,7 +307,7 @@ Shows complete PlatformIO project organization.
 ## 4. Indicators Dashboard
 
 ```markdown
-![Indicators](output/4.Indicators.png)
+![Indicators](output/Indicators.png)
 ```
 
 Shows:
@@ -321,7 +321,7 @@ Shows:
 ## 5. Load Condition
 
 ```markdown
-![Load Condition](output/5.Loadcondition.png)
+![Load Condition](output/Loadcondition.png)
 ```
 
 Shows different simulated load conditions.
@@ -331,7 +331,7 @@ Shows different simulated load conditions.
 ## 6. Wokwi Simulation
 
 ```markdown
-![Simulation](output/6.Simulation2.png)
+![Simulation](output/Simulation2.png)
 ```
 
 Shows complete virtual hardware implementation.
