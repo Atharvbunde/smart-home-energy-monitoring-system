@@ -268,7 +268,7 @@ P2-Energy-Monitoring
 ## 1. ThingSpeak Dashboard
 
 ```markdown
-![Dashboard](output/Dashboard.png)
+![IoT Dashboard](output/Dashboard.png)
 ```
 
 Shows:
